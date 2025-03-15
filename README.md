@@ -8,4 +8,3 @@
 <br/>
 [**homework2-4**](https://bohun0917.github.io/homework2-4.html)
 <br/>
-[css_demo.html](https://bohun0917.github.io/css_demo.html)
